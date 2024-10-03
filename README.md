@@ -18,7 +18,7 @@
 
 
 # 📊 Get in Touch:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)][(https://www.linkedin.com/in/syed-rabbey-a82452239/)](https://www.linkedin.com/in/nuhahmed) [![Email](https://img.shields.io/badge/Email-rabbeysyed%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:nuha2003usa@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nuhahmed) [![Email](mailto:nuha2003usa@gmail.com)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
