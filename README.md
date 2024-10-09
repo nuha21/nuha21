@@ -1,9 +1,9 @@
 # 👋 Hello!
-[![Resume](https://img.shields.io/badge/-Resume-blue?style=for-the-badge)]
+![Resume](https://img.shields.io/badge/-Resume-blue?style=for-the-badge)
 
 
 
-🤵🏽 I am a AWS Cloud Club Architect of my University!<br> 🔭 I'm interested in providing efficient business solutions through programming.<br>☁️ I'm looking to help with any cloud-based applications & integration. <br><br>💻View my work [here]!
+🤵🏽 I am a AWS Cloud Club Architect of my University!<br> 🔭 I'm interested in providing efficient business solutions through programming.<br>☁️ I'm looking to help with any cloud-based applications & integration. <br><br>💻View my work [here](https://github.com/nuha21)!
 
 
 
