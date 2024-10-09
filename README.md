@@ -1,18 +1,13 @@
 # 👋 Hello!
 ![Resume](https://img.shields.io/badge/-Resume-blue?style=for-the-badge)
 
-
-
-🤵🏽 I am a AWS Cloud Club Architect of my University!<br> 🔭 I'm interested in providing efficient business solutions through programming.<br>☁️ I'm looking to help with any cloud-based applications & integration. <br>
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on ... Finishing my degree and looking for full time software developer roles
+- 🌱 I’m currently learning ... React.js, Typescript, SQL, AWS
+- 👯 I’m looking to collaborate on ... Any open-source projects!
+- 💬 Ask me about ... How to land a Software Engineering internship, Hackathons, Networking
+- 📫 How to reach me: ... preferably email linked below
+- 😄 Pronouns: ... She/Her
+- ⚡ Fun fact: ... I am only child!
 
 <br>💻View my work [here](https://github.com/nuha21)!
 
@@ -24,7 +19,6 @@
 # 🏢 Past Companies: 
 ![Green Lancer](https://img.shields.io/badge/GreenLancer-%2315C26B.svg?style=for-the-badge&color=green)
 ![Ally](https://img.shields.io/badge/Ally-%237B16FF.svg?style=for-the-badge&color=purple)
-![DTE Energy]
 
 
 
