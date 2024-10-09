@@ -23,7 +23,7 @@
 
 # 🏢 Past Companies: 
 ![AlixPartners]
-![Accenture]
+![Accenture](https://img.shields.io/badge/Ally-%237B16FF.svg?style=for-the-badge&color=purple)(https://www.ally.com/)
 ![DTE Energy]
 
 
