@@ -1,5 +1,5 @@
 # 👋 Hello!
-![Resume](https://img.shields.io/badge/-Resume-blue?style=for-the-badge)
+[![Resume](https://img.shields.io/badge/-Resume-blue?style=for-the-badge)]
 (https://drive.google.com/file/d/1YkBmPib7u53aWXU-sPmAAOQ5oq_XcAnK/view?usp=sharing)
 - 🔭 I’m currently working on ... Finishing my degree and looking for full time software developer roles
 - 🌱 I’m currently learning ... React.js, Typescript, SQL, AWS
