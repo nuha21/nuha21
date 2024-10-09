@@ -1,6 +1,6 @@
 # 👋 Hello!
 ![Resume](https://img.shields.io/badge/-Resume-blue?style=for-the-badge)
-
+(need to put google drive link)
 - 🔭 I’m currently working on ... Finishing my degree and looking for full time software developer roles
 - 🌱 I’m currently learning ... React.js, Typescript, SQL, AWS
 - 👯 I’m looking to collaborate on ... Any open-source projects!
