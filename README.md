@@ -1,9 +1,9 @@
 # 👋 Hello!
-![Resume]
+[![Resume](https://img.shields.io/badge/-Resume-blue?style=for-the-badge)]
 
 
 
-🤵🏽 I am the official AWS Cloud Club Captain of my University!<br> 🔭 I'm interested in providing efficient business solutions through programming.<br>☁️ I'm looking to help with any cloud-based applications & integration. <br>⚡Fun fact - I share the same first name with 2 other immediate family members!<br>💻View my work [here]!
+🤵🏽 I am a AWS Cloud Club Architect of my University!<br> 🔭 I'm interested in providing efficient business solutions through programming.<br>☁️ I'm looking to help with any cloud-based applications & integration. <br><br>💻View my work [here]!
 
 
 
@@ -25,6 +25,8 @@
 <!--
 **nuha21/nuha21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+-->
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -35,4 +37,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
