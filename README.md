@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning ... React.js, Typescript, SQL, AWS
 - 👯 I’m looking to collaborate on ... Any open-source projects!
 - 💬 Ask me about ... How to land a Software Engineering internship, Hackathons, Networking
-- 📫 How to reach me: ... preferably email linked below
+- 📫 How to reach me: ... Preferably email linked below
 - 😄 Pronouns: ... She/Her
 - ⚡ Fun fact: ... I am only child!
 
